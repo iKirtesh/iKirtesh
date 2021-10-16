@@ -1,6 +1,7 @@
+
 ### Hello World! I'm Kirtesh  👋
 
- <img align="right" alt="GIF" src="https://github.com/iKirtesh/" width="500" height="320" />
+ <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/59656771/137586017-7210e148-2fe5-492c-9b9b-a195485a589c.gif" width="500" height="320" style="border-radius:100px;" />
 
 
 ## I'm a Student, Developer and Creator!!
@@ -14,8 +15,7 @@
 
 
 ### Talk with me, I am kinda awesome:
-[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
+Coming Soon
 <br />
 
 ### Languages and Tools:
