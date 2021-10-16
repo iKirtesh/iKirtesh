@@ -1,7 +1,7 @@
 
 ### Hello World! I'm Kirtesh  👋
 
- <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/59656771/137586017-7210e148-2fe5-492c-9b9b-a195485a589c.gif" width="500" height="320" style="border-radius:100px;" />
+ <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/59656771/137586017-7210e148-2fe5-492c-9b9b-a195485a589c.gif" width="300" height="220" style="border-radius:100px;" />
 
 
 ## I'm a Student, Developer and Creator!!
