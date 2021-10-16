@@ -2,7 +2,7 @@
 ### Hello World! I'm Kirtesh  👋
 
  <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/59656771/137586017-7210e148-2fe5-492c-9b9b-a195485a589c.gif" width="300" height="220" style="border-radius:100px;" />
-
+<br /><br />
 
 ## I'm a Student, Developer and Creator!!
 - ✍ You can find my projects **NOT NOW**
@@ -46,7 +46,7 @@ Coming Soon
   <img align="left" alt="Kirtesh's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=iKirtesh&show_icons=true&hide_border=true" />
 
 </details>
-
+<br />
 <details>
   <summary>:zap: Most Used Languages</summary>
 
