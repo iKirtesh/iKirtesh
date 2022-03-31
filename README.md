@@ -8,7 +8,6 @@
 - 🌱 I’m currently learning Java
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about ... Anything
-- 😄 
 - ⚡ Fun fact: I love to program everyday
 
 
