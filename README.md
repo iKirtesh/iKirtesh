@@ -1,43 +1,32 @@
+<h1 align="center">Hi 👋, I'm Kirtesh Admute<h1>
 
-### Hello World! I'm Kirtesh  👋
+<h3 align="center">A passionate UI and Andriod development from India
+<span> 
+    <a href="https://twitter.com/Akirtesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Akirtesh" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/iKirtesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iKirtesh" height="30" width="40" /></a>
+</span>
+</h3>
+
+- 🔭 I’m currently working on **Not Now**.
+
+- 🌱 I’m currently learning Java.
+
+- 💬 Ask me about Java.
+
+- :heart: I love seeking  innovative solutions to everyday problems.
+
+- 📫 How to reach me **kirteshadmute@gmail.com**
 
 
-## I'm a Student, Developer and Creator!!
-- ✍ You can find my projects **NOT NOW**
-- 🔭 I’m currently studying Information Technology engineering.
-- 🌱 I’m currently learning Java
-- 👯 I’m looking to collaborate on open source
-- 💬 Ask me about ... Anything
-- ⚡ Fun fact: I love to program everyday
-
-
-### Talk with me, I am kinda awesome:
-Coming Soon
-<br />
-
-### Languages and Tools:
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-
-<br />
-<br />
----
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Kirtesh's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=iKirtesh&show_icons=true&hide_border=true" />
-
-</details>
-<br />
-<details>
-  <summary>:zap: Most Used Languages</summary>
-
-<img align="left" alt="Kirtesh's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iKirtesh" />
-
-</details>
-
-[website]: https://www.pairget.com
+<h3 align="left">Languages and Tools:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GitHub Stats:</h3>
+ 
+ <img align="right" width="410" src="https://github-readme-stats.vercel.app/api?username=ikirtesh&show_icons=true&theme=radical&count_private=true" alt="Kirtesh's GitHub stats"/>
+<img align="right" width="410" src="https://github-readme-streak-stats.herokuapp.com/?user=iKirtesh&theme=radical" alt="GitHub Streak"/>
+ 
+ 
+| Domain | Technology |
+| :--- | :--- |
+| Languages |    <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>  <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>|
+| Frontend |   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>   <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> |
+| Mobile App |   <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> |
+| Software | <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> |
