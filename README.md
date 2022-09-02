@@ -20,8 +20,8 @@
 
 <h3 align="left">Languages and Tools:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GitHub Stats:</h3>
  
- <img align="right" width="410" src="https://github-readme-stats.vercel.app/api?username=ikirtesh&show_icons=true&theme=radical&count_private=true" alt="Kirtesh's GitHub stats"/>
-<img align="right" width="410" src="https://github-readme-streak-stats.herokuapp.com/?user=iKirtesh&theme=radical" alt="GitHub Streak"/>
+ <img align="right" width="410" src="https://github-readme-stats.vercel.app/api?username=ikirtesh&show_icons=true&theme=default&count_private=true" alt="Kirtesh's GitHub stats"/>
+<img align="right" width="410" src="https://github-readme-streak-stats.herokuapp.com/?user=iKirtesh&theme=default" alt="GitHub Streak"/>
  
  
 | Domain | Technology |
