@@ -3,7 +3,7 @@
 <h3 align="center">A passionate UI and Andriod development from India
 <span> 
     <a href="https://twitter.com/Akirtesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Akirtesh" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/iKirtesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iKirtesh" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/Kirteshad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="KirteshAd" height="30" width="40" /></a>
 </span>
 </h3>
 
