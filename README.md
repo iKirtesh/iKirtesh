@@ -7,7 +7,7 @@
 </span>
 </h3>
 
-- 🔭 I’m currently working on **Not Now**.
+- 🔭 I’m currently working on **Open Source Contribution**.
 
 - 🌱 I’m currently learning Java and JavaScript.
 
