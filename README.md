@@ -7,13 +7,13 @@
 </span>
 </h3>
 
-- 🔭 I’m currently working on **Open Source Contribution**.
+- 🔭 I’m currently working on **Open Source Contribution**
 
-- 🌱 I’m currently learning Java and JavaScript.
+- 🌱 I’m currently learning Java and JavaScript
 
-- 💬 Ask me about Java.
+- 💬 Ask me about Java
 
-- :heart: I love seeking innovative solutions to everyday problems.
+- :heart: I love seeking innovative solutions to everyday problems
 
 - 📫 How to reach me **kirteshadmute@gmail.com**
 
