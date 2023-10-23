@@ -1,4 +1,4 @@
-<!--<h1 align="center">Hi 👋, I'm Kirtesh Admute<h1>
+<h1 align="center">Hi 👋, I'm Kirtesh Admute<h1>
 
 <h3 align="center">A passionate UI and Andriod development from India
 <span> 
@@ -31,4 +31,3 @@
 | Design | <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> |
 | Tools | <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a> |
 | Version Control | <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a><a href="" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/> </a> |
--->
