@@ -20,7 +20,7 @@
 | **Frontend**      | React, Next.js, HTML5, CSS3, Sass, Tailwind CSS, Bootstrap                          |
 | **Build & DevOps**| Maven, Gradle, Docker, GitHub Actions, CI/CD pipelines                              |
 | **Databases**     | MySQL, PostgreSQL, MongoDB, Redis                                                   |
-| **Testing & QA**  | JUnit, Mockito, Postman, Swagger API docs                                           |
+| **Testing & QA**  | Postman, Swagger API docs                                           |
 | **Cloud & Hosting**| AWS (EC2/RDS basics), Firebase Auth & Hosting, Vercel                              |
 | **IDEs & Tools**  | IntelliJ IDEA, VS Code, WebStorm, Postman                                           |
 
