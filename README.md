@@ -18,7 +18,7 @@ I actively leverage AI-powered development tools to boost productivity and code 
 - **Cursor** – AI-native IDE forked from VS Code featuring deep codebase indexing and filesystem-aware autocomplete
 - **Windsurf** – Agentic IDE with “Cascade” (live previews & refactor-aware AI), collaboration features, and strong multi-file context awareness 
 - **Claude Code** – Workspace-aware AI coding assistant noted for superior contextual understanding 
-- …and I explore others like ChatGPT, Gemini, etc Qodo for code completion, refactoring, testing, and documentation
+- …and I explore others like ChatGPT, Gemini and Qodo, etc for code completion, refactoring, testing, and documentation
 ---
 
 ### 🛠️ Technologies & Tools
