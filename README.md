@@ -15,7 +15,7 @@
 
 | Layer            | Technologies & Tools                                                                 |
 |------------------|---------------------------------------------------------------------------------------|
-| **Languages**     | Java, JavaScript, C++, Python, SQL                                                   |
+| **Languages**     | Java, JavaScript, Python, SQL                                                   |
 | **Backend**       | Spring Boot, Spring MVC, Spring Security, Hibernate, JDBC, REST APIs                |
 | **Frontend**      | React, Next.js, HTML5, CSS3, Sass, Tailwind CSS, Bootstrap                          |
 | **Build & DevOps**| Maven, Gradle, Docker, GitHub Actions, CI/CD pipelines                              |
