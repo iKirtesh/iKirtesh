@@ -1,33 +1,60 @@
-<h1 align="center">Hi 👋, I'm Kirtesh Admute<h1>
+<h1 align="center">Hi 👋, I'm Kirtesh Admute</h1>
+<h3 align="center">Full Stack Engineer in AI Native | Pune, India</h3>
 
-<h3 align="center">A passionate UI and Andriod developer from India
-<span> 
-    <a href="https://twitter.com/Akirtesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Akirtesh" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/Kirteshad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="KirteshAd" height="30" width="40" /></a>
-</span>
-</h3>
+<p align="center">
+  🔭 I’m currently contributing to open-source and refining my microservices & frontend skills<br>
+  🌱 I’m learning Spring Boot, Hibernate, React, and Next.js<br>
+  💬 Ask me about Java, REST APIs, or responsive UIs<br>
+  ❤️ I love solving real-world problems with elegant code<br>
+  📫 Reach me at kirteshadmute@gmail.com
+</p>
 
-- 🔭 I’m currently working on **Open Source Contribution**
+---
 
-- 🌱 I’m currently learning Java and JavaScript
+### 🛠️ Technologies & Tools
 
-- 💬 Ask me about Java
+| Layer            | Technologies & Tools                                                                 |
+|------------------|---------------------------------------------------------------------------------------|
+| **Languages**     | Java, JavaScript, C++, Python, SQL                                                   |
+| **Backend**       | Spring Boot, Spring MVC, Spring Security, Hibernate, JDBC, REST APIs                |
+| **Frontend**      | React, Next.js, HTML5, CSS3, Sass, Tailwind CSS, Bootstrap                          |
+| **Build & DevOps**| Maven, Gradle, Docker, GitHub Actions, CI/CD pipelines                              |
+| **Databases**     | MySQL, PostgreSQL, MongoDB, Redis                                                   |
+| **Testing & QA**  | JUnit, Mockito, Postman, Swagger API docs                                           |
+| **Cloud & Hosting**| AWS (EC2/RDS basics), Firebase Auth & Hosting, Vercel                              |
+| **IDEs & Tools**  | IntelliJ IDEA, VS Code, WebStorm, Postman                                           |
 
-- :heart: I love seeking innovative solutions to everyday problems
+---
 
-- 📫 How to reach me **kirteshadmute@gmail.com**
+### 📚 Featured Projects
 
+#### [Eminent Hub for Professionals](https://eminenthub.vercel.app)
+- **Stack:** Next.js, React, Firebase Auth, MongoDB, Tailwind CSS  
+- **Highlights:** Blog & portfolio platform, Google OAuth, admin dashboard for content management
 
-<h3 align="left">Languages and Tools:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GitHub Stats:</h3>
- 
- <img align="right" width="410" src="https://github-readme-stats.vercel.app/api?username=ikirtesh&show_icons=true&theme=default&count_private=true" alt="Kirtesh's GitHub stats"/>
-<img align="right" width="410" src="https://github-readme-streak-stats.herokuapp.com/?user=iKirtesh&theme=default" alt="GitHub Streak"/>
- 
- 
-| Domain | Technology |
-| :--- | :--- |
-| Languages |    <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>  <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>|
-| Frontend |   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3schools.com/sass/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="css3" width="40" height="40"/> </a> |
-| Design | <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> |
-| Tools | <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a> |
-| Version Control | <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a><a href="" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/> </a> |
+#### [IIC SIT Web Portal](https://iicsit.in)
+- **Stack:** MERN (React, Node.js, Express, MongoDB), Firebase Auth, Cloudinary  
+- **Highlights:** Club/event registration system, Razorpay payments, admin & user dashboards
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ikirtesh&show_icons=true&theme=default&count_private=true" alt="Kirtesh’s GitHub stats" width="380"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ikirtesh&theme=default" alt="GitHub streak" width="380"/>
+</p>
+
+---
+
+### 🔗 Connect with Me
+
+- [LinkedIn](https://linkedin.com/in/ikirtesh)  
+- [GitHub](https://github.com/ikirtesh)  
+- [Twitter](https://twitter.com/Akirtesh)
+
+---
+
+<p align="center">
+  <em>“Striving to build scalable, elegant solutions—and learn continuously along the way.”</em>
+</p>
