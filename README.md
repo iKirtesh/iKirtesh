@@ -2,12 +2,23 @@
 <h3 align="center">Full Stack Engineer in AI Native | Pune, India</h3>
 
 <p align="center">
-  🔭 I’m currently contributing to open-source and refining my microservices & frontend skills<br>
-  🌱 I’m learning Spring Boot, Hibernate, React, and Next.js<br>
+  🔭 I’m currently contributing to open-source and refining my microservices, frontend, and AI tooling skills<br>
+  🌱 I’m learning Spring Boot, Hibernate, React, Next.js, and exploring AI developer tools<br>
   💬 Ask me about Java, REST APIs, or responsive UIs<br>
   ❤️ I love solving real-world problems with elegant code<br>
   📫 Reach me at kirteshadmute@gmail.com
 </p>
+
+
+### 🤖 AI & Developer Tools
+
+I actively leverage AI-powered development tools to boost productivity and code quality:
+
+- **GitHub Copilot** – Autocomplete and code generation powered by OpenAI & Anthropic models :contentReference[oaicite:1]{index=1}  
+- **Cursor** – AI-native IDE forked from VS Code featuring deep codebase indexing and filesystem-aware autocomplete :contentReference[oaicite:2]{index=2}  
+- **Windsurf** – Agentic IDE with “Cascade” (live previews & refactor-aware AI), collaboration features, and strong multi-file context awareness :contentReference[oaicite:3]{index=3}  
+- **Claude Code** – Workspace-aware AI coding assistant noted for superior contextual understanding :contentReference[oaicite:4]{index=4}  
+- …and I explore others like Tabnine, Codeium, Qodo, and Aider for code completion, refactoring, testing, and documentation :contentReference[oaicite:5]{index=5}
 
 ---
 
@@ -55,6 +66,4 @@
 
 ---
 
-<p align="center">
-  <em>“Striving to build scalable, elegant solutions—and learn continuously along the way.”</em>
-</p>
+<p align="center"><em>“Empowering development with AI; building impactful solutions.”</em></p>
