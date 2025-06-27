@@ -34,7 +34,7 @@
 
 #### [IIC SIT Web Portal](https://iicsit.in)
 - **Stack:** MERN (React, Node.js, Express, MongoDB), Firebase Auth, Cloudinary  
-- **Highlights:** Club/event registration system, Razorpay payments, admin & user dashboards
+- **Highlights:** Club/event registration system, Razorpay payments, admin, member & user dashboards
 
 ---
 
