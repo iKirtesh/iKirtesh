@@ -14,12 +14,11 @@
 
 I actively leverage AI-powered development tools to boost productivity and code quality:
 
-- **GitHub Copilot** – Autocomplete and code generation powered by OpenAI & Anthropic models :contentReference[oaicite:1]{index=1}  
-- **Cursor** – AI-native IDE forked from VS Code featuring deep codebase indexing and filesystem-aware autocomplete :contentReference[oaicite:2]{index=2}  
-- **Windsurf** – Agentic IDE with “Cascade” (live previews & refactor-aware AI), collaboration features, and strong multi-file context awareness :contentReference[oaicite:3]{index=3}  
-- **Claude Code** – Workspace-aware AI coding assistant noted for superior contextual understanding :contentReference[oaicite:4]{index=4}  
-- …and I explore others like Tabnine, Codeium, Qodo, and Aider for code completion, refactoring, testing, and documentation :contentReference[oaicite:5]{index=5}
-
+- **GitHub Copilot** – Autocomplete and code generation powered by OpenAI & Anthropic models
+- **Cursor** – AI-native IDE forked from VS Code featuring deep codebase indexing and filesystem-aware autocomplete
+- **Windsurf** – Agentic IDE with “Cascade” (live previews & refactor-aware AI), collaboration features, and strong multi-file context awareness 
+- **Claude Code** – Workspace-aware AI coding assistant noted for superior contextual understanding 
+- …and I explore others like ChatGPT, Gemini, etc Qodo for code completion, refactoring, testing, and documentation
 ---
 
 ### 🛠️ Technologies & Tools
