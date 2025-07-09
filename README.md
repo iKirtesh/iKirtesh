@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kirtesh Admute</h1>
-<h3 align="center">Full Stack Engineer in AI Native | Pune, India</h3>
+<h3 align="center">AI Native Full Stack Engineer | Pune, India</h3>
 
 <p align="center">
   🔭 I’m currently contributing to open-source and refining my microservices, frontend, and AI tooling skills<br>
