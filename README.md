@@ -17,7 +17,8 @@ I actively leverage AI-powered development tools to boost productivity and code 
 - **GitHub Copilot** – Autocomplete and code generation powered by OpenAI & Anthropic models
 - **Cursor** – AI-native IDE forked from VS Code featuring deep codebase indexing and filesystem-aware autocomplete
 - **Windsurf** – Agentic IDE with “Cascade” (live previews & refactor-aware AI), collaboration features, and strong multi-file context awareness 
-- **Claude Code** – Workspace-aware AI coding assistant noted for superior contextual understanding 
+- **Claude Code** – Workspace-aware AI coding assistant noted for superior contextual understanding
+- **Trae IDE** – A ByteDance-developed AI-powered fork of VS Code that acts as a “real AI engineer.”
 - …and I explore others like ChatGPT, Gemini and Qodo, etc for code completion, refactoring, testing, and documentation
 ---
 
