@@ -26,13 +26,13 @@ I actively leverage AI-powered development tools to boost productivity and code 
 
 | Layer            | Technologies & Tools                                                                 |
 |------------------|---------------------------------------------------------------------------------------|
-| **Languages**     | Java, JavaScript, Python, SQL                                                   |
+| **Languages**     | C, C++, Java, JavaScript, Python, SQL                                                   |
 | **Backend**       | Spring Boot, ExpressJs, NodeJs, Spring MVC, Spring Security, Hibernate, JDBC, REST APIs                |
 | **Frontend**      | ReactJs, NextJs, HTML5, CSS3, Sass, Tailwind CSS, Bootstrap                          |
 | **Build & DevOps**| Maven, Gradle, Docker, GitHub Actions, CI/CD pipelines                              |
 | **Databases**     | MySQL, PostgreSQL, MongoDB, Redis                                                   |
 | **Testing & QA**  | Postman, Swagger API docs                                           |
-| **Cloud & Hosting**| AWS (EC2/RDS basics), Firebase Auth & Hosting, Vercel                              |
+| **Cloud & Hosting**| AWS (EC2/RDS basics, ...), Firebase Auth & Hosting, Vercel, many more                             |
 | **IDEs & Tools**  | IntelliJ IDEA, VS Code, WebStorm, Postman, Figma, Notion                                          |
 
 ---
