@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kirtesh Admute</h1>
-<h3 align="center">AI Native Full Stack Engineer | Pune, India</h3>
+<h3 align="center">Full Stack Engineer | Pune, India</h3>
 
 <p align="center">
   🔭 I’m currently contributing to open-source and refining my microservices, frontend, and AI tooling skills<br>
@@ -8,19 +8,6 @@
   ❤️ I love solving real-world problems with elegant code<br>
   📫 Reach me at kirteshadmute@gmail.com
 </p>
-
-
-### 🤖 AI & Developer Tools
-
-I actively leverage AI-powered development tools to boost productivity and code quality:
-
-- **GitHub Copilot** – Autocomplete and code generation powered by OpenAI & Anthropic models
-- **Cursor** – AI-native IDE forked from VS Code featuring deep codebase indexing and filesystem-aware autocomplete
-- **Windsurf** – Agentic IDE with “Cascade” (live previews & refactor-aware AI), collaboration features, and strong multi-file context awareness 
-- **Claude Code** – Workspace-aware AI coding assistant noted for superior contextual understanding
-- **Trae IDE** – A ByteDance-developed AI-powered fork of VS Code that acts as a “real AI engineer.”
-- …and I explore others like ChatGPT, Gemini and Qodo, etc for code completion, refactoring, testing, and documentation
----
 
 ### 🛠️ Technologies & Tools
 
