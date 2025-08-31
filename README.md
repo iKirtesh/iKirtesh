@@ -1,54 +1,74 @@
-<h1 align="center">Hi 👋, I'm Kirtesh Admute</h1>
-<h3 align="center">Full Stack Engineer | Pune, India</h3>
+# Hi 👋, I’m **Kirtesh Admute**
+**Full‑Stack Engineer • Pune, India**
 
-<p align="center">
-  🔭 I’m currently contributing to open-source and refining my microservices, frontend, and AI tooling skills<br>
-  🌱 I’m learning Spring Boot, Hibernate, React, Next.js, and exploring AI developer tools<br>
-  💬 Ask me about Java, REST APIs, or responsive UIs<br>
-  ❤️ I love solving real-world problems with elegant code<br>
-  📫 Reach me at kirteshadmute@gmail.com
-</p>
-
-### 🛠️ Technologies & Tools
-
-| Layer            | Technologies & Tools                                                                 |
-|------------------|---------------------------------------------------------------------------------------|
-| **Languages**     | C, C++, Java, JavaScript, Python, SQL, Shell                                                  |
-| **Backend**       | Spring Boot, ExpressJs, NodeJs, Spring MVC, Spring Security, Hibernate, JDBC, REST APIs                |
-| **Frontend**      | ReactJs, NextJs, HTML5, CSS3, Sass, Tailwind CSS, Bootstrap                          |
-| **Build & DevOps**| Maven, Gradle, Docker, GitHub Actions, CI/CD pipelines                              |
-| **Databases**     | MySQL, PostgreSQL, MongoDB, Redis                                                   |
-| **Testing & QA**  | Postman, Swagger API docs                                           |
-| **Cloud & Hosting**| AWS (EC2/RDS basics, ...), Firebase Auth & Hosting, Vercel, many more                             |
-| **IDEs & Tools**  | IntelliJ IDEA, VS Code, WebStorm, Postman, Figma, Notion                                          |
+> Empowering development with AI — building impactful, production‑ready solutions.
 
 ---
 
-### 📚 Featured Projects
+### 🔭 Current focus
+- Contributing to open‑source and refining microservices, frontend, and AI tooling skills.
+- Learning: Spring Boot, Hibernate, React, Next.js and modern AI developer tools.
 
-#### [Eminent Hub for Professionals](https://eminenthub.vercel.app)
-- **Stack:** Next.js, React, Firebase Auth, MongoDB, Tailwind CSS  
-- **Highlights:** Blog & portfolio platform, Google OAuth, admin dashboard for content management
-
-#### [IIC SIT Web Portal](https://iicsit.in)
-- **Stack:** MERN (React, Node.js, Express, MongoDB), Firebase Auth, Cloudinary  
-- **Highlights:** Club/event registration system, Razorpay payments, admin, member & user dashboards
+### 🌱 Interests
+Java, REST APIs, responsive UI, information retrieval, and pragmatic AI for developers.
 
 ---
 
-### 📊 GitHub Stats
+## 📌 Quick links
+- ✉️ kirteshadmute@gmail.com
+- 🔗 [LinkedIn](https://linkedin.com/in/ikirtesh) • [GitHub](https://github.com/ikirtesh) • [Twitter](https://twitter.com/Akirtesh)
+
+---
+
+## 🛠️ Tech Snapshot
+A compact glance at tools I use daily.
+
+| Layer | Tools |
+|---|---|
+| **Languages** | C, C++, Java, JavaScript, Python, SQL, Shell |
+| **Backend** | Spring Boot, Express, Node.js, Spring MVC, Spring Security, Hibernate, JDBC, REST APIs |
+| **Frontend** | React, Next.js, HTML5, CSS3, Sass, Tailwind CSS, Bootstrap |
+| **Build & DevOps** | Maven, Gradle, Docker, GitHub Actions, CI/CD |
+| **Databases** | MySQL, PostgreSQL, MongoDB, Redis |
+| **Testing & Docs** | Postman, Swagger |
+| **Cloud & Hosting** | AWS (EC2 / RDS basics), Firebase Auth & Hosting, Vercel |
+| **IDEs & Tools** | IntelliJ IDEA, VS Code, WebStorm, Figma, Notion |
+
+---
+
+## 📚 Featured Projects
+
+### Eminent Hub for Professionals
+- **Live:** https://eminenthub.vercel.app
+- **Stack:** Next.js, React, Firebase Auth, MongoDB, Tailwind CSS
+- **What it does:** Blog & portfolio platform with Google OAuth and admin content management.
+
+### IIC SIT Web Portal
+- **Live:** https://iicsit.in
+- **Stack:** MERN (React, Node, Express, MongoDB), Firebase Auth, Cloudinary
+- **What it does:** Club/event registration system with Razorpay payments and role-based dashboards.
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ikirtesh&show_icons=true&theme=default&count_private=true" alt="Kirtesh’s GitHub stats" width="380"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ikirtesh&show_icons=true&theme=default&count_private=true" alt="GitHub stats" width="380"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ikirtesh&theme=default" alt="GitHub streak" width="380"/>
 </p>
 
 ---
 
-### 🔗 Connect with Me
-
-- [LinkedIn](https://linkedin.com/in/ikirtesh)  [GitHub](https://github.com/ikirtesh)  [Twitter](https://twitter.com/Akirtesh)
+## 🤝 Want to collaborate?
+If you’d like to work together on open source, microservices, or AI‑driven tooling:
+- Email: kirteshadmute@gmail.com
+- Open a GitHub issue/PR on any repo of mine, or ping me on LinkedIn/Twitter.
 
 ---
 
-<p align="center"><em>“Empowering development with AI; building impactful solutions.”</em></p>
+## 📝 License
+This README content is available under the [MIT License](LICENSE) — feel free to reuse and adapt.
+
+---
+
+*Last updated: Aug 31, 2025*
