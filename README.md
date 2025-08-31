@@ -26,7 +26,7 @@ I actively leverage AI-powered development tools to boost productivity and code 
 
 | Layer            | Technologies & Tools                                                                 |
 |------------------|---------------------------------------------------------------------------------------|
-| **Languages**     | C, C++, Java, JavaScript, Python, SQL                                                   |
+| **Languages**     | C, C++, Java, JavaScript, Python, SQL, Shell                                                  |
 | **Backend**       | Spring Boot, ExpressJs, NodeJs, Spring MVC, Spring Security, Hibernate, JDBC, REST APIs                |
 | **Frontend**      | ReactJs, NextJs, HTML5, CSS3, Sass, Tailwind CSS, Bootstrap                          |
 | **Build & DevOps**| Maven, Gradle, Docker, GitHub Actions, CI/CD pipelines                              |
