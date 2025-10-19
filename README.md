@@ -71,4 +71,7 @@ This README content is available under the [MIT License](LICENSE) — feel free 
 
 ---
 
+
 *Last updated: Aug 31, 2025*
+
+![Profile views](https://komarev.com/ghpvc/?username=ikirtesh)
