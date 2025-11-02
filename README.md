@@ -55,8 +55,12 @@ A compact glance at tools I use daily.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ikirtesh&show_icons=true&theme=default&count_private=true" alt="GitHub stats" width="380"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ikirtesh&theme=default" alt="GitHub streak" width="380"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ikirtesh&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub stats" width="380"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ikirtesh&theme=tokyonight&hide_border=true" alt="GitHub streak" width="380"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikirtesh&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="380"/>
 </p>
 
 ---
@@ -66,6 +70,15 @@ If you’d like to work together on open source, microservices, or AI‑driven t
 - Email: kirteshadmute@gmail.com
 - Open a GitHub issue/PR on any repo of mine, or ping me on LinkedIn/Twitter.
 
+## 🧠 Philosophy
+Code should not just work — it should teach, scale, and inspire others to build better.
+
+---
+
+## 🧩 Fun Facts
+- 🧠 I love merging AI with full-stack systems to create intelligent, automated workflows.  
+- 🏋️‍♂️ When I’m not coding, you’ll find me at the gym or exploring new productivity tools.
+
 ---
 
 ## 📝 License
@@ -74,6 +87,6 @@ This README content is available under the [MIT License](LICENSE) — feel free 
 ---
 
 
-*Last updated: Aug 31, 2025*
+*Last updated: Nov 3, 2025*
 
 ![Profile views](https://komarev.com/ghpvc/?username=ikirtesh)
