@@ -1,5 +1,6 @@
 # Hi 👋, I’m **Kirtesh Admute**
 **Full‑Stack Engineer • Pune, India**
+🧑🏻‍💻 [ikirtesh.dev](https://www.ikirtesh.dev)
 
 > Empowering development with AI — building impactful, production‑ready solutions.
 
@@ -15,6 +16,7 @@ Java, REST APIs, responsive UI, information retrieval, and pragmatic AI for deve
 ---
 
 ## 📌 Quick links
+- 🧑🏻‍💻 **Portfolio:** [ikirtesh.dev](https://www.ikirtesh.dev)
 - ✉️ kirteshadmute@gmail.com
 - 🔗 [LinkedIn](https://linkedin.com/in/ikirtesh) • [GitHub](https://github.com/ikirtesh) • [Twitter](https://twitter.com/Akirtesh)
 
