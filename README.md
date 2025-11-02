@@ -70,6 +70,8 @@ If you’d like to work together on open source, microservices, or AI‑driven t
 - Email: kirteshadmute@gmail.com
 - Open a GitHub issue/PR on any repo of mine, or ping me on LinkedIn/Twitter.
 
+---
+
 ## 🧠 Philosophy
 Code should not just work — it should teach, scale, and inspire others to build better.
 
