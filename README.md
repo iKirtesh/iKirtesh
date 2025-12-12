@@ -27,8 +27,8 @@ A compact glance at tools I use daily.
 
 | Layer | Tools |
 |---|---|
-| **Languages** | C, C++, Java, JavaScript, Python, SQL, Shell |
-| **Backend** | Spring Boot, Express, Node.js, Spring MVC, Spring Security, Hibernate, JDBC, REST APIs |
+| **Languages** | C, C++, C#, Java, JavaScript, Python, SQL, Shell |
+| **Backend** | Spring Boot, Express, Node.js, Spring MVC, Spring Security, Hibernate, JDBC, REST APIs, .NET |
 | **Frontend** | React, Next.js, HTML5, CSS3, Sass, Tailwind CSS, Bootstrap |
 | **Build & DevOps** | Maven, Gradle, Docker, GitHub Actions, CI/CD |
 | **Databases** | MySQL, PostgreSQL, MongoDB, Redis |
