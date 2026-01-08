@@ -77,18 +77,16 @@ A concise overview of the tools I work with daily.
 
 ---
 
-## 📊 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ikirtesh&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="380"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ikirtesh&theme=tokyonight&hide_border=true" width="380"/>
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikirtesh&layout=compact&theme=tokyonight&hide_border=true" width="380"/>
-</p>
+<!-- <p align="center"> -->
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=ikirtesh&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="380"/> -->
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=ikirtesh&theme=tokyonight&hide_border=true" width="380"/> -->
+<!-- </p> -->
 
----
+<!-- <p align="center"> -->
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikirtesh&layout=compact&theme=tokyonight&hide_border=true" width="380"/> -->
+<!-- </p> -->
 
 ## 🤝 Let’s Collaborate
 
