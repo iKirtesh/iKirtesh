@@ -57,27 +57,23 @@ A concise overview of the tools I work with daily.
 
 ---
 
-## 📚 Featured Projects
+## 🚀 Featured Engineering Projects
 
-### 🚀 Eminent Hub for Professionals
+### 🏗️ ShopVerse — Distributed E-Commerce Ecosystem
+* **The Scale:** A modern, event-driven system powered by 11+ Microservices.
+* **The Tech:** Spring Boot, Apache Kafka, Apache Flink, and React.
+* **Innovation:** Features real-time analytics, automated batch product ingestion, and personalized recommendation engines.
 
-* **Live:** [https://eminenthub.vercel.app](https://eminenthub.vercel.app)
-* **Stack:** Next.js, React, Firebase Auth, MongoDB, Tailwind CSS
-* **Overview:**
-  A modern blog and portfolio platform featuring Google OAuth, role-based admin controls, and clean content management workflows.
+### 🎯 IIC SIT Web Portal — AI-Integrated Club Platform
+* **Live:** iicsit.in | Users: 100+ Active Members
+* **AI Flex:** Automated the generation of professional PDF reports using Gemini API, reducing manual overhead by 90%.
+* **Fintech:** Handled 100+ secure transactions via Razorpay with custom webhook reliability logic.
 
----
-
-### 🎯 IIC SIT Web Portal
-
-* **Live:** [https://iicsit.in](https://iicsit.in)
-* **Stack:** MERN (React, Node.js, Express, MongoDB), Firebase Auth, Cloudinary, Razorpay
-* **Overview:**
-  A complete event and club management system with secure payments, role-based dashboards, and scalable backend architecture.
+### ✍️ Eminent Hub — Professional Content Platform
+* **Live:** eminenthub.vercel.app
+* **Overview:** Role-based admin controls and secure Google OAuth integration for high-performance blogging.
 
 ---
-
-
 
 <!-- <p align="center"> -->
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=ikirtesh&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="380"/> -->
@@ -120,6 +116,6 @@ This README is shared under the **MIT License** — feel free to adapt and reuse
 
 ---
 
-*Last updated: **Nov 3, 2025***
+*Last updated: **Jan 20, 2026***
 
 ![Profile views](https://komarev.com/ghpvc/?username=ikirtesh)
