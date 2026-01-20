@@ -65,12 +65,12 @@ A concise overview of the tools I work with daily.
 * **Innovation:** Features real-time analytics, automated batch product ingestion, and personalized recommendation engines.
 
 ### 🎯 IIC SIT Web Portal — AI-Integrated Club Platform
-* **Live:** iicsit.in | Users: 100+ Active Members
+* **Live:** [iicsit.in](https://www.iicsit.in) | Users: 100+ Active Members
 * **AI Flex:** Automated the generation of professional PDF reports using Gemini API, reducing manual overhead by 90%.
 * **Fintech:** Handled 100+ secure transactions via Razorpay with custom webhook reliability logic.
 
 ### ✍️ Eminent Hub — Professional Content Platform
-* **Live:** eminenthub.vercel.app
+* **Live:** [eminenthub.vercel.app](https://www.eminenthub.vercel.app)
 * **Overview:** Role-based admin controls and secure Google OAuth integration for high-performance blogging.
 
 ---
