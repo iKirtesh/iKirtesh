@@ -60,6 +60,7 @@ A concise overview of the tools I work with daily.
 ## 🚀 Featured Engineering Projects
 
 ### 🏗️ ShopVerse — Distributed E-Commerce Ecosystem
+* **Docs:** [ShopVerse Docs](https://shopverse-docs.vercel.app/)
 * **The Scale:** A modern, event-driven system powered by 11+ Microservices.
 * **The Tech:** Spring Boot, Apache Kafka, Apache Flink, and React.
 * **Innovation:** Features real-time analytics, automated batch product ingestion, and personalized recommendation engines.
