@@ -14,6 +14,7 @@
 * Actively learning and applying:
 
   * **Spring Boot & Hibernate**
+  * **Microservices**
   * **React & Next.js**
   * **Modern AI developer tooling**
 
@@ -108,15 +109,8 @@ I’m open to collaborating on:
 
 * 🧠 Passionate about blending **AI with full-stack engineering**
 * 🏋️‍♂️ Gym enthusiast & productivity systems explorer
-
 ---
 
-## 📝 License
-
-This README is shared under the **MIT License** — feel free to adapt and reuse.
-
----
-
-*Last updated: **Jan 20, 2026***
+*Last updated: **Feb 3, 2026***
 
 ![Profile views](https://komarev.com/ghpvc/?username=ikirtesh)
