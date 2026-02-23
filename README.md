@@ -55,7 +55,7 @@ A concise overview of the tools I work with daily.
 | **Testing & Docs**  | Postman, Swagger                                                                             |
 | **Cloud & Hosting** | AWS (EC2, RDS – fundamentals), Firebase Auth & Hosting, Vercel                               |
 | **IDEs & Tools**    | IntelliJ IDEA, VS Code, WebStorm, Figma, Notion                                              |
-
+| **AI Tools**        | Kiro, Windsurf, Trae, Github Copilot, Cursor, ChatGPT, Claude                                |
 ---
 
 ## 🚀 Featured Engineering Projects
