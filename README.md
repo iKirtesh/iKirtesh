@@ -37,7 +37,6 @@
 * 🔗 **Connect:**
   [LinkedIn](https://linkedin.com/in/ikirtesh) •
   [GitHub](https://github.com/ikirtesh) •
-  [Twitter](https://twitter.com/Akirtesh)
 
 ---
 
